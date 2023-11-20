@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I'm noob programmer, don't mind
+
 <!--
 **blurry16/blurry16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
