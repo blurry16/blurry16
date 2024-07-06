@@ -8,5 +8,6 @@
  `Y8bod8P' o888o  `V88V"V8P' d888b    d888b        .8'     o888o  `88bod8' 
                                                .o..P'                      
                                                `Y8P'                                                           
-```
-# [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blurry16)  
+```  
+
+<img src="https://raw.githubusercontent.com/blurry16/blurry16/main/assets/felix-argyle-belarus.png" alt="drawing" width=400> [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blurry16)  
