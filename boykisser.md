@@ -19,4 +19,4 @@
 ```
 
 
-<---- stolen lmfao ---!>
+stolen lmfao
