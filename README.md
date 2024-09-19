@@ -13,4 +13,28 @@
 <!-- <img src="https://raw.githubusercontent.com/blurry16/blurry16/main/assets/felix-argyle-belarus.png" alt="drawing"> [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blurry16)  -->
 <p align="center">
   <img src="https://count.getloli.com/get/@blurry16?theme=gelbooru" alt="Mix 1 1/2 cups of all-purpose flour, 3 1/2 teaspoons of baking powder, 1 tablespoon of sugar, and 1/4 teaspoon of salt in a bowl. In a separate bowl, whisk 1 egg, then add 1 1/4 cups of milk, 3 tablespoons of melted butter, and 1 teaspoon of vanilla extract if desired. Combine the wet ingredients with the dry ingredients, stirring gently until just combined (the batter should be slightly lumpy). Heat a non-stick skillet over medium heat and lightly grease it. Pour 1/4 cup of batter onto the skillet for each pancake. Cook until bubbles form and edges are set, about 2-3 minutes. Flip and cook until the other side is golden brown, about 1-2 minutes. Serve warm with your favorite toppings."/>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣤⡾⠿⠿⠿⠿⠿⠿⠿⠿⣿⣿⣿⣿⣛⣛⠛⠛⠛⠛⠛⠻⠿⠷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⡾⢟⣛⣏⣉⡉⠁⠀⠀⠀⠈⠉⠉⣉⣩⡤⠤⠤⠤⠤⣤⣬⣍⡙⠳⠶⣤⣀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⣀⣤⡤⢤⣤⣤⣀⡉⠉⠉⠀⠀⠀⠀⢠⡶⠚⠓⠒⠶⠶⠮⣍⣛⠦⣝⠳⢦⡀⠀⠀⠀⠻⣦⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣿⠃⠀⠀⠀⢠⡾⠋⠁⠀⠀⠀⠀⢠⡀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣮⡻⣦⡙⠂⠀⠀⠀⠹⣧⡀⠀⠀⠀⠀⠀⠀
+⢀⣀⣀⣀⣸⣿⣦⣄⣤⣤⣾⣄⣀⣀⣠⣤⣤⣤⣼⣷⣄⣀⣠⣤⣤⣼⣀⣀⣤⣾⣿⣿⣿⣿⣦⣤⣤⣠⣷⣼⣿⣤⣤⣤⡄⠀⢻⣷⡀⠀⠀⠀⠀⠀
+⢸⣿⣿⡿⠛⢻⣿⠛⠛⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠛⠛⠛⣿⡟⠛⢻⣿⡛⠛⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠠⣤⣽⢿⣦⡀⠀⠀⠀
+⠘⢻⣿⣿⣶⡿⠟⣷⣶⠈⠉⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⣿⣿⣶⡌⠉⣿⣶⡈⠉⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⣶⣄⠀⠈⣿⢿⣄⠀⠀
+⠀⣸⣿⠉⣿⣿⣿⣟⣙⣷⣶⠉⢙⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠉⠙⣿⣿⣶⣟⣙⣷⣶⠉⢉⣿⣿⣿⣿⣿⠋⣙⣷⠀⠀⠙⣷⡄⢸⡄⢻⣷⡀
+⠀⢻⡏⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠰⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣼⠿⠛⣿⣶⣄⡀⢸⡇⢸⠀⢸⣿⡇
+⠀⠈⣿⡦⣴⣯⠀⣿⣿⣧⡀⠀⠀⠀⠐⠻⠿⣧⡀⠀⠀⠀⠀⠶⠶⢶⣤⣤⣿⠁⠀⠀⠀⣰⣶⣴⣿⣿⠟⠉⠀⢀⣴⣿⠋⠉⠙⣿⠃⣾⢀⣿⣿⠇
+⠀⠀⠈⢿⡄⠀⠀⣿⣿⣿⣿⣶⣤⣀⠀⠀⠀⠈⠻⣶⡶⣶⠀⠀⠀⣀⣒⣻⣷⣶⠶⠿⠛⠋⠉⠀⣠⣿⣀⣤⣶⣿⣿⠏⠀⠀⠀⠧⠸⣯⣾⡿⠁⠀
+⠀⠀⠀⢸⡇⠀⠸⣿⣏⠈⣿⠀⠙⣿⠛⠛⠷⢶⣶⣿⠿⠿⢿⣿⠛⠛⠉⠉⠀⢿⡆⠀⢀⣤⣴⣾⣿⣿⠋⠁⣠⡿⠃⠀⠀⠀⠀⢠⣿⡿⠛⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⣿⣿⣿⣿⣆⣴⣿⣆⣀⢀⣠⣿⣅⣀⣀⣴⣿⡀⢀⣀⣀⣴⣾⣿⣿⡿⠿⠋⠁⠘⣿⣄⣼⠏⠀⠀⠀⠀⠀⢠⣿⡿⠁⠀⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠛⠋⢿⣇⠀⠀⠀⠀⣀⣽⠟⠁⠀⠀⠀⠀⠀⢠⣿⡟⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⢹⣯⣿⡏⠹⣟⠛⢻⣿⣿⣿⣿⡟⠉⠉⠉⠉⣿⠀⠀⠀⠀⠀⠈⢻⣆⣀⣴⠾⠋⠀⠀⠀⠀⠀⠀⢀⣴⣿⠏⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⠀⠙⠿⣧⣤⣿⣿⣿⣿⣟⠁⢸⣧⡀⠀⠀⢀⣿⣀⣀⣀⣤⣤⣴⠾⠟⠋⢁⣀⠤⠒⣠⣴⠞⣀⣴⡿⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⢀⣤⣶⣿⣿⣿⡿⠋⠉⠙⠛⠛⠛⠛⠛⠛⠛⠋⠉⠉⠉⠉⠀⢀⣤⠴⠚⠉⣤⠖⠋⣩⣴⣾⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣸⣁⣤⣾⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⡤⠒⠋⠉⠀⠐⠛⣉⣤⣶⠿⠟⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣠⣶⣿⣿⣿⣿⣿⣿⠿⠋⠀⠀⠀⣀⣈⠉⠉⠉⠀⠀⠄⠤⠀⠀⠀⠉⠉⠀⣀⣤⣶⣾⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⡃⠀⣹⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣶⡿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠈⠻⣿⣶⣿⠟⠻⣶⣤⣄⡀⠀⠀⠀⠀⣤⣤⣤⣤⣶⣶⣿⡿⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⠉⠀⠀⠀⠀⠉⠙⠛⠛⠛⠛⠛⠛⠛⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
 </p>
