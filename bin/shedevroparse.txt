@@ -1,2 +1,4 @@
 src: https://gist.github.com/blurry16/5d4e9820060fbc208eb5b104d053c408
 will probably be deleted since i just need it to be hosted somewhere xddd
+
+Long story short: parser for the 6th BASIC STATE EXAM (OGE) in Russia
